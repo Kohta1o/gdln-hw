@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\bin\Debug\monthOfTheYear.exe.config
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\bin\Debug\monthOfTheYear.exe
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\bin\Debug\monthOfTheYear.pdb
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\obj\Debug\monthOfTheYear.csprojAssemblyReference.cache
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\obj\Debug\monthOfTheYear.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\obj\Debug\monthOfTheYear.exe
+C:\Users\User\Desktop\monthOfTheYear\monthOfTheYear\obj\Debug\monthOfTheYear.pdb

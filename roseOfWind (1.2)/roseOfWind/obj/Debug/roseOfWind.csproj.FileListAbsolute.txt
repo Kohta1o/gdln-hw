@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\roseOfWind\roseOfWind\bin\Debug\roseOfWind.exe.config
+C:\Users\User\Desktop\roseOfWind\roseOfWind\bin\Debug\roseOfWind.exe
+C:\Users\User\Desktop\roseOfWind\roseOfWind\bin\Debug\roseOfWind.pdb
+C:\Users\User\Desktop\roseOfWind\roseOfWind\obj\Debug\roseOfWind.csprojAssemblyReference.cache
+C:\Users\User\Desktop\roseOfWind\roseOfWind\obj\Debug\roseOfWind.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\roseOfWind\roseOfWind\obj\Debug\roseOfWind.exe
+C:\Users\User\Desktop\roseOfWind\roseOfWind\obj\Debug\roseOfWind.pdb
