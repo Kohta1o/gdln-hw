@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\bin\Debug\differentArrayNumbers.exe.config
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\bin\Debug\differentArrayNumbers.exe
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\bin\Debug\differentArrayNumbers.pdb
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\obj\Debug\differentArrayNumbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\obj\Debug\differentArrayNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\obj\Debug\differentArrayNumbers.exe
+C:\Users\User\Desktop\differentArrayNumbers\differentArrayNumbers\obj\Debug\differentArrayNumbers.pdb
