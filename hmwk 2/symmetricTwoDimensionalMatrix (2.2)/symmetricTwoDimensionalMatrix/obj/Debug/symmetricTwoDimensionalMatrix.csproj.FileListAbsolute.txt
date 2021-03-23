@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\bin\Debug\symmetricTwoDimensionalMatrix.exe.config
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\bin\Debug\symmetricTwoDimensionalMatrix.exe
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\bin\Debug\symmetricTwoDimensionalMatrix.pdb
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\obj\Debug\symmetricTwoDimensionalMatrix.csprojAssemblyReference.cache
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\obj\Debug\symmetricTwoDimensionalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\obj\Debug\symmetricTwoDimensionalMatrix.exe
+C:\Users\User\Desktop\symmetricTwoDimensionalMatrix\symmetricTwoDimensionalMatrix\obj\Debug\symmetricTwoDimensionalMatrix.pdb
