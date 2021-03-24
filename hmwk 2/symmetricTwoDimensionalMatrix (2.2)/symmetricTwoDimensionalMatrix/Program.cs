@@ -4,7 +4,7 @@ namespace symmetricTwoDimensionalMatrix
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // O(n2)
         {
 
             int[,] array; int size; int index = 0;
