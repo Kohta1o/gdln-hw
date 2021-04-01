@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postOfficeQueue (3.1)", "postOfficeQueue (3.1)\postOfficeQueue (3.1).csproj", "{7CCC7277-D574-49F4-96DC-6435237DE57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCC7277-D574-49F4-96DC-6435237DE57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCC7277-D574-49F4-96DC-6435237DE57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCC7277-D574-49F4-96DC-6435237DE57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCC7277-D574-49F4-96DC-6435237DE57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F7CE69-5563-40EE-A424-116931084393}
+	EndGlobalSection
+EndGlobal
