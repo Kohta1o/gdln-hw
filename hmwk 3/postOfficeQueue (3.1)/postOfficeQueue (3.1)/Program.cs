@@ -10,26 +10,47 @@ namespace postOfficeQueue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите время работы почтового отделения (в минутах): ");
-            int minutes = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите общее количество клиентов в очереди ");
-            int queueSize = int.Parse(Console.ReadLine());
-            Queue<int> time = new Queue<int>();
-            for (int i = 0; i < queueSize; i++)
+            do
             {
-                Console.WriteLine($"Сколько нужно минут обслуживания клиенту №{i + 1}? ");
-                int queue_minutes = int.Parse(Console.ReadLine());
-                if (minutes > 0)
+                Console.WriteLine("Введите время работы почтового отделения (в минутах): ");
+                int minutes = int.Parse(Console.ReadLine());
+                if (minutes < 0)
                 {
-                    minutes -= queue_minutes;
-                    time.Enqueue(queue_minutes);
+                    Console.WriteLine("Введено отрицательное время работы! Нажмите любую кнопку, чтобы закрыть программу.. ");
+                    Console.ReadKey();
+                    break;
                 }
-            }
-            Console.WriteLine($"Возможно обслужить клиентов: {time.Count}");
-            Console.Write($"Почта не успела обслужить {queueSize - time.Count} посетителей ");
+                Console.WriteLine("Введите общее количество посетителей в очереди ");
+                int queueSize = int.Parse(Console.ReadLine());
+                Queue<int> visitors = new Queue<int>();
+                for (int i = 0; i < queueSize; i++)
+                {
+                    Console.WriteLine($"Сколько нужно минут обслуживания посетителю №{i + 1}? ");
+                    int queue_minutes = int.Parse(Console.ReadLine());
+                    visitors.Enqueue(queue_minutes);
+                }
+                do
+                {
+                    minutes = minutes - visitors.Dequeue();
+                    if (visitors.Count == 0)
+                    {
+                        break;
+                    }
+                }
+                while (minutes > 0);
 
-            Console.ReadKey();
+                switch (visitors.Count)
+                {
+                    case 0:
+                        Console.WriteLine("Все посетители ушли с посылками.");
+                        break;
+                    default:
+                        Console.WriteLine($"{visitors.Count} - столько посетителей осталось без посылок.");
+                        break;
+                }
+            } while (true);
         }
+
 
     }
 }
