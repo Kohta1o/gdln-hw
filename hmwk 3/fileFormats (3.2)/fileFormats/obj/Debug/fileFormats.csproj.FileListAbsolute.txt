@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\fileFormats\fileFormats\bin\Debug\fileFormats.exe.config
+C:\Users\User\Desktop\fileFormats\fileFormats\bin\Debug\fileFormats.exe
+C:\Users\User\Desktop\fileFormats\fileFormats\bin\Debug\fileFormats.pdb
+C:\Users\User\Desktop\fileFormats\fileFormats\obj\Debug\fileFormats.csprojAssemblyReference.cache
+C:\Users\User\Desktop\fileFormats\fileFormats\obj\Debug\fileFormats.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fileFormats\fileFormats\obj\Debug\fileFormats.exe
+C:\Users\User\Desktop\fileFormats\fileFormats\obj\Debug\fileFormats.pdb
