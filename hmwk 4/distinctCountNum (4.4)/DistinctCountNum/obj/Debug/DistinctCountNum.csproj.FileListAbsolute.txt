@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\bin\Debug\DistinctCountNum.exe.config
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\bin\Debug\DistinctCountNum.exe
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\bin\Debug\DistinctCountNum.pdb
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\obj\Debug\DistinctCountNum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\obj\Debug\DistinctCountNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\obj\Debug\DistinctCountNum.exe
+C:\Users\User\Desktop\DistinctCountNum\DistinctCountNum\obj\Debug\DistinctCountNum.pdb
